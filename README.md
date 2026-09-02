@@ -11,7 +11,7 @@
 <img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/mariadb.svg" alt="MariaDB" width="64px"/>
 <img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jquery.svg" alt="JQuery" width="64px"/>
 
-Sistema de alugel de carros, basicamente um sitema web para
+Sistema de aluguel de carros, basicamente um sitema web para
 criar e gerenciar locações de veiculos. Usando **PHP**, **Docker**, **MariaDB** e **JQuery**.
 
 ## How Run:
